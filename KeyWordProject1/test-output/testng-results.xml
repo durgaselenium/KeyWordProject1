@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32301" started-at="2019-11-30T08:39:56Z" finished-at="2019-11-30T08:40:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32301" started-at="2019-11-30T08:39:56Z" finished-at="2019-11-30T08:40:29Z">
+      <class name="com.qa.hs.login.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.qa.hs.login.LoginTest@4520ebad]" name="loginTest" duration-ms="22067" started-at="2019-11-30T14:09:56Z" finished-at="2019-11-30T14:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="logoTest()[pri:0, instance:com.qa.hs.login.LoginTest@4520ebad]" name="logoTest" duration-ms="10198" started-at="2019-11-30T14:10:18Z" finished-at="2019-11-30T14:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+      </class> <!-- com.qa.hs.login.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
